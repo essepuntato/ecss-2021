@@ -1,6 +1,6 @@
 # Scripts for analysing open citations in the Computer Science domain
 
-**How to cite this software:** Peroni, S. (2021). Scripts for analysing open citations in the Computer Science domain (Version 1.0.0) [Computer software]
+**How to cite this software:** Peroni, S. (2021). Scripts for analysing open citations in the Computer Science domain (Version 1.0.0) [Computer software]. [https://doi.org/10.5281/zenodo.5812081](https://doi.org/10.5281/zenodo.5812081)
 
 This repository contains a collection of scripts used to retrieve citation data from [OpenCitations' COCI](http://opencitations.net/index/coci) and bibliographic metadata from [DBLP](https://dblp.org) to provide a snapshot of the current availability of open citation data of publications in Informatics. The source datasets used by these scripts, i.e. COCI citation data and DBLP bibliographic metadata, can be retrieved in the websites of the two infrastructures mentioned above.
 
